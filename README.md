@@ -1,4 +1,4 @@
-#Satisfactory Dedicated Server (yay!)
+# Satisfactory Dedicated Server (yay!)
 
 Built using cm2network/steamcmd.
 
